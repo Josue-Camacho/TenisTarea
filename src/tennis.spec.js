@@ -59,6 +59,20 @@ it("30 - 30 cuando ambos anotan dos veces", () => {
   expect(tennis.score()).toEqual("30 - 30");
 });
 
+it("3 - 3 debe mostrar Deuce", () => {
+  const tennis = new Tennis();
+
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player1Scores();
+
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+
+  expect(tennis.score()).toEqual("Deuce");
+});
+
 });
 
 
