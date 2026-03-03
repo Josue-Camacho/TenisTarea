@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ba8dc28b9859ca670bcadd44e8c1c1fc4d00319b",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:26:49.000Z",
       "message": "feat:game para jugador 1",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/ba8dc28b9859ca670bcadd44e8c1c1fc4d00319b"
     },
     "stats": {
       "total": 42,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:34:01.000Z",
+      "message": "feat: agregar soporte de puntuacion para jugador 2",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 56,
+      "additions": 34,
+      "deletions": 22,
+      "date": "2026-03-03"
+    },
+    "coverage": 90.91,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -264,9 +264,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ba8dc28b9859ca670bcadd44e8c1c1fc4d00319b",
     "commitName": "feat:game para jugador 1",
     "commitTimestamp": 1772501210622,
     "testId": 8
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772501301362,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772501619686,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar soporte de puntuacion para jugador 2",
+    "commitTimestamp": 1772501642833,
+    "testId": 9
   }
 ]

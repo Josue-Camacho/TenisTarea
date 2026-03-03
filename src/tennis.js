@@ -1,28 +1,35 @@
 class Tennis {
-    constructor() {
-        this.player1Points = 0;
-    }
-    score(){
-        let player1Score = "Love";
-        if(this.player1Points == 1){
-            player1Score= "15"
-        }
-        if(this.player1Points == 2){
-            player1Score= "30"
-        }
-        if(this.player1Points == 3){
-            player1Score= "40"
-        }
-        if(this.player1Points >= 4){
-            return "Game for Player 1"
-        }
+  constructor() {
+    this.player1Points = 0;
+    this.player2Points = 0; 
+  }
 
-        return player1Score+" - Love"
+  player1Scores() {
+    this.player1Points++;
+  }
+
+  player2Scores() { 
+    this.player2Points++;
+  }
+
+  score() {
+
+    if (this.player1Points >= 4) {
+      return "Game for Player 1";
     }
 
-    player1Scores(){
-        this.player1Points++;
+    if (this.player2Points >= 4) {
+      return "Game for Player 2";
     }
+
+    const scores = ["Love", "15", "30", "40"];
+
+    return (
+      scores[this.player1Points] +
+      " - " +
+      scores[this.player2Points]
+    );
+  }
 }
 
 export default Tennis;
