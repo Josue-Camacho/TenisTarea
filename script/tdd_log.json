@@ -1,0 +1,242 @@
+[
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1772112718469,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1772112729715,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "35f4df466b0d598fbe1e47345ff4feff0a38b4f9",
+    "commitName": "plan de pruebas",
+    "commitTimestamp": 1772113558513,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772113772716,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772113809116,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772113843027,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772113917114,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "53e10fdbd354d45efc3b20695ba43a56e9119092",
+    "commitName": "feat: caso de inicio de juego",
+    "commitTimestamp": 1772113954737,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772114064090,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772114276128,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772114289395,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772114353068,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "8de607f6725d15ac4450b77dd9a99afaf562c144",
+    "commitName": "refact: creamos clase para score y puntaje",
+    "commitTimestamp": 1772114390476,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772114469162,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772114500877,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772114554531,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1772114827375,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1772114844427,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1772114884058,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "e726285e371e508c78d808198c61f4ed2181cdeb",
+    "commitName": "feat: jugador 1 anota jugador 2 en cero",
+    "commitTimestamp": 1772114920894,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1772115057881,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1772115068243,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1772115196546,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "bf15ef7d5d646186c70c3795826ed657f29e9d4b",
+    "commitName": "feat: jugador 1 anota 2 veces",
+    "commitTimestamp": 1772115230277,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772115364415,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772115464625,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1772115475957,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "2017652688722db3649831ec794cc16c6659e298",
+    "commitName": "feat: jugador 1 anota 3 veces",
+    "commitTimestamp": 1772115509279,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1772115576945,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1772116275030,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "ad7f737dc304e21cb471a8b5973e55e4149a50a5",
+    "commitName": "fix: terminando la clase..",
+    "commitTimestamp": 1772116300805,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "doc: documentacion sobre el diseno",
+    "commitTimestamp": 1772116727708,
+    "testId": 7
+  }
+]

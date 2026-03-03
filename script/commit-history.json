@@ -1,0 +1,154 @@
+[
+  {
+    "sha": "35f4df466b0d598fbe1e47345ff4feff0a38b4f9",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T13:45:57.000Z",
+      "message": "plan de pruebas",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/35f4df466b0d598fbe1e47345ff4feff0a38b4f9"
+    },
+    "stats": {
+      "total": 53,
+      "additions": 51,
+      "deletions": 2,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "53e10fdbd354d45efc3b20695ba43a56e9119092",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T13:52:34.000Z",
+      "message": "feat: caso de inicio de juego",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/53e10fdbd354d45efc3b20695ba43a56e9119092"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "8de607f6725d15ac4450b77dd9a99afaf562c144",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T13:59:49.000Z",
+      "message": "refact: creamos clase para score y puntaje",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/8de607f6725d15ac4450b77dd9a99afaf562c144"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 15,
+      "deletions": 4,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e726285e371e508c78d808198c61f4ed2181cdeb",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:08:40.000Z",
+      "message": "feat: jugador 1 anota jugador 2 en cero",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/e726285e371e508c78d808198c61f4ed2181cdeb"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 19,
+      "deletions": 8,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "bf15ef7d5d646186c70c3795826ed657f29e9d4b",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:13:49.000Z",
+      "message": "feat: jugador 1 anota 2 veces",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/bf15ef7d5d646186c70c3795826ed657f29e9d4b"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "2017652688722db3649831ec794cc16c6659e298",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:18:28.000Z",
+      "message": "feat: jugador 1 anota 3 veces",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/2017652688722db3649831ec794cc16c6659e298"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "ad7f737dc304e21cb471a8b5973e55e4149a50a5",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:31:40.000Z",
+      "message": "fix: terminando la clase..",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/ad7f737dc304e21cb471a8b5973e55e4149a50a5"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 13,
+      "deletions": 3,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:38:47.000Z",
+      "message": "doc: documentacion sobre el diseno",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
