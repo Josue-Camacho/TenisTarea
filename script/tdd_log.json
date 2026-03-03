@@ -424,9 +424,15 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c7204ad377405864e6c77519cb48d4ec89a485fe",
     "commitName": "test: validar game despues de advantage para jugador 2",
     "commitTimestamp": 1772503014567,
     "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat(ui): agregar interfaz con botones para marcar puntos",
+    "commitTimestamp": 1772503114345,
+    "testId": 17
   }
 ]

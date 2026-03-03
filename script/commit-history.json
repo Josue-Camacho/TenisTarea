@@ -304,17 +304,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c7204ad377405864e6c77519cb48d4ec89a485fe",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:56:53.000Z",
       "message": "test: validar game despues de advantage para jugador 2",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/c7204ad377405864e6c77519cb48d4ec89a485fe"
     },
     "stats": {
       "total": 2,
       "additions": 1,
       "deletions": 1,
+      "date": "2026-03-03"
+    },
+    "coverage": 94.44,
+    "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:58:33.000Z",
+      "message": "feat(ui): agregar interfaz con botones para marcar puntos",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 48,
+      "additions": 26,
+      "deletions": 22,
       "date": "2026-03-03"
     },
     "coverage": 94.44,
