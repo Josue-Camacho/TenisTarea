@@ -42,7 +42,7 @@ class Tennis {
         return "Advantage for Player 2";
     }
 
-    // Game (CORREGIDO)
+    // Game 
     if (this.player1Points >= 4 && difference >= 2) {
         return "Game for Player 1";
     }
