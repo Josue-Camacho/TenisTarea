@@ -404,9 +404,23 @@
     "testId": 14
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3dec2a200cde4dd17d6309e402c03c70c9f226eb",
     "commitName": "test: validar game despues de advantage para jugador 1",
     "commitTimestamp": 1772502879143,
     "testId": 14
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1772502902836,
+    "success": true,
+    "testId": 15
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: validar game despues de advantage para jugador 2",
+    "commitTimestamp": 1772502912773,
+    "testId": 15
   }
 ]

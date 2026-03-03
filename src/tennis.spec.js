@@ -113,19 +113,31 @@ describe("Tennis Scorer", () => {
   });
 
 
+it("desde Advantage jugador 2 anota otra vez y gana el game", () => {
+  const tennis = new Tennis();
+
+  // llegar a Deuce
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player1Scores();
+
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+
+  // Advantage Player 2
+  tennis.player2Scores();
+
+  // Game Player 2
+  tennis.player2Scores();
+
+  expect(tennis.score()).toEqual("Game for Player 2");
+});
 
 
 
 
 
-
-
-
-
-
-
-
-  
 });
 
 

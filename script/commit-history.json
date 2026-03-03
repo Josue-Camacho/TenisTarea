@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3dec2a200cde4dd17d6309e402c03c70c9f226eb",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:54:38.000Z",
       "message": "test: validar game despues de advantage para jugador 1",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/3dec2a200cde4dd17d6309e402c03c70c9f226eb"
     },
     "stats": {
       "total": 81,
@@ -281,6 +281,25 @@
     },
     "coverage": 88.89,
     "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:55:11.000Z",
+      "message": "test: validar game despues de advantage para jugador 2",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 15,
+      "deletions": 3,
+      "date": "2026-03-03"
+    },
+    "coverage": 94.44,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }
