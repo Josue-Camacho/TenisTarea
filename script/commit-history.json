@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "baf5b2c9f7fc53e248ea3b9f3d100a45294c8c50",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:36:19.000Z",
       "message": "test: validar empates simples antes de Deuce",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/baf5b2c9f7fc53e248ea3b9f3d100a45294c8c50"
     },
     "stats": {
       "total": 9,
@@ -205,6 +205,25 @@
     },
     "coverage": 90.91,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:37:18.000Z",
+      "message": "test: validar empates simples antes de Deuce",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 90.91,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
