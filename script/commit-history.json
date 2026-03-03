@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0ad441de431878acafef74ef27d46f40951b411f",
     "author": "israel antezana",
     "commit": {
       "date": "2026-02-26T14:38:47.000Z",
       "message": "doc: documentacion sobre el diseno",
-      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/0ad441de431878acafef74ef27d46f40951b411f"
     },
     "stats": {
       "total": 8,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:26:49.000Z",
+      "message": "feat:game para jugador 1",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 14,
+      "deletions": 28,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
