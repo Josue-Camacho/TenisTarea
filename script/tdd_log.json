@@ -286,9 +286,23 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6fc7c42cba5e71f99bc5a0d8d6efddd46b162dfd",
     "commitName": "feat: agregar soporte de puntuacion para jugador 2",
     "commitTimestamp": 1772501642833,
     "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1772501726427,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: validar empates simples antes de Deuce",
+    "commitTimestamp": 1772501780227,
+    "testId": 10
   }
 ]

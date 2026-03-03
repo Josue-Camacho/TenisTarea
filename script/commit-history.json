@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6fc7c42cba5e71f99bc5a0d8d6efddd46b162dfd",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:34:01.000Z",
       "message": "feat: agregar soporte de puntuacion para jugador 2",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/6fc7c42cba5e71f99bc5a0d8d6efddd46b162dfd"
     },
     "stats": {
       "total": 56,
@@ -186,6 +186,25 @@
     },
     "coverage": 90.91,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:36:19.000Z",
+      "message": "test: validar empates simples antes de Deuce",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 90.91,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
