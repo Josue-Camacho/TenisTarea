@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "98ef7238f63f699592b9bf63a1eb1a3e5bb10065",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:52:22.000Z",
       "message": "feat: implementar advantage segun las reglas de tenis",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/98ef7238f63f699592b9bf63a1eb1a3e5bb10065"
     },
     "stats": {
       "total": 60,
@@ -262,6 +262,25 @@
     },
     "coverage": 88.89,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:54:38.000Z",
+      "message": "test: validar game despues de advantage para jugador 1",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 81,
+      "additions": 58,
+      "deletions": 23,
+      "date": "2026-03-03"
+    },
+    "coverage": 88.89,
+    "test_count": 12,
     "failed_tests": 0,
     "conclusion": "success"
   }

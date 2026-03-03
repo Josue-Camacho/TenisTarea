@@ -48,32 +48,50 @@ describe("Tennis Scorer", () => {
   tennis.player1Scores();
   tennis.player2Scores();
   expect(tennis.score()).toEqual("15 - 15");
-});
+  });
 
-it("30 - 30 cuando ambos anotan dos veces", () => {
-  const tennis = new Tennis();
-  tennis.player1Scores();
-  tennis.player1Scores();
-  tennis.player2Scores();
-  tennis.player2Scores();
-  expect(tennis.score()).toEqual("30 - 30");
-});
+  it("30 - 30 cuando ambos anotan dos veces", () => {
+    const tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.score()).toEqual("30 - 30");
+  });
 
-it("3 - 3 debe mostrar Deuce", () => {
-  const tennis = new Tennis();
+  it("3 - 3 debe mostrar Deuce", () => {
+    const tennis = new Tennis();
 
-  tennis.player1Scores();
-  tennis.player1Scores();
-  tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
 
-  tennis.player2Scores();
-  tennis.player2Scores();
-  tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
 
-  expect(tennis.score()).toEqual("Deuce");
-});
+    expect(tennis.score()).toEqual("Deuce");
+  });
 
-it("desde Deuce jugador 1 anota y muestra Advantage for Player 1", () => {
+  it("desde Deuce jugador 1 anota y muestra Advantage for Player 1", () => {
+    const tennis = new Tennis();
+
+    // llegar a Deuce
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+
+    // jugador 1 anota
+    tennis.player1Scores();
+
+    expect(tennis.score()).toEqual("Advantage for Player 1");
+  });
+
+  it("desde Advantage jugador 1 anota otra vez y gana el game", () => {
   const tennis = new Tennis();
 
   // llegar a Deuce
@@ -85,12 +103,29 @@ it("desde Deuce jugador 1 anota y muestra Advantage for Player 1", () => {
   tennis.player2Scores();
   tennis.player2Scores();
 
-  // jugador 1 anota
+  // Advantage
   tennis.player1Scores();
 
-  expect(tennis.score()).toEqual("Advantage for Player 1");
-});
+  // Gana el game
+  tennis.player1Scores();
 
+  expect(tennis.score()).toEqual("Game for Player 1");
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 });
 
 
