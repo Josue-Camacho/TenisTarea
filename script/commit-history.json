@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "aa9388ea2de5f91885ce2feb5515a2a0d8abb8c4",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-03-03T01:42:03.000Z",
       "message": "feat:Implementar regla  de Deuce",
-      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/aa9388ea2de5f91885ce2feb5515a2a0d8abb8c4"
     },
     "stats": {
       "total": 33,
@@ -243,6 +243,25 @@
     },
     "coverage": 92.31,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-03-03T01:52:22.000Z",
+      "message": "feat: implementar advantage segun las reglas de tenis",
+      "url": "https://github.com/Josue-Camacho/TenisTarea/commit/HEAD"
+    },
+    "stats": {
+      "total": 60,
+      "additions": 51,
+      "deletions": 9,
+      "date": "2026-03-03"
+    },
+    "coverage": 88.89,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

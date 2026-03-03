@@ -73,6 +73,24 @@ it("3 - 3 debe mostrar Deuce", () => {
   expect(tennis.score()).toEqual("Deuce");
 });
 
+it("desde Deuce jugador 1 anota y muestra Advantage for Player 1", () => {
+  const tennis = new Tennis();
+
+  // llegar a Deuce
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player1Scores();
+
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+
+  // jugador 1 anota
+  tennis.player1Scores();
+
+  expect(tennis.score()).toEqual("Advantage for Player 1");
+});
+
 });
 
 
